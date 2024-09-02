@@ -1,0 +1,20 @@
+{
+  "length": {
+    "millimeter": 1,
+    "centimeter": 10,
+    "meter": 1000,
+    "kilometer": 1000000,
+    "inch": 25.4,
+    "foot": 304.8,
+    "yard": 914.4,
+    "mile": 1609344
+  },
+  "weight": {
+    "milligram": 1,
+    "gram": 1000,
+    "kilogram": 1000000,
+    "ounce": 28349.5,
+    "pound": 453592
+  },
+  "temperature":{}
+}
